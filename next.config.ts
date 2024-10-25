@@ -32,8 +32,8 @@ export default withSentryConfig(nextConfig, {
   // For all available options, see:
   // https://github.com/getsentry/sentry-webpack-plugin#options
 
-  org: "js-mastery-dk",
-  project: "javascript-nextjs",
+  org: "jkenfack-technologies-d9",
+  project: "javascript",
 
   // Only print logs for uploading source maps in CI
   silent: !process.env.CI,
